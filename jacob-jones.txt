@@ -1,0 +1,191 @@
+Jacob Jones
+
+Senior Java Developer
+
+📧 jacob.jones.dev@gmail.com
+
+📱 +1 (317) 555-0194
+📍 Indianapolis, Indiana
+
+Professional Summary
+
+Results-driven Java Developer with over 6 years of experience designing, building, and maintaining scalable backend systems. Strong background in enterprise application development using Java, Spring Boot, and RESTful microservices. Experienced in high-availability systems, database optimisation, API integrations, and cloud-based deployments. Known for clean code, pragmatic problem-solving, and the ability to translate business requirements into reliable technical solutions.
+
+Professional Experience
+Senior Java Developer
+
+Midwest Software Solutions | Indianapolis, IN
+March 2021 – Present
+
+Designed and developed enterprise-grade backend services using Java 17, Spring Boot, and Spring Security
+
+Built REST and GraphQL APIs consumed by web and mobile applications
+
+Led migration from monolithic architecture to microservices
+
+Implemented asynchronous processing using Kafka and RabbitMQ
+
+Optimised SQL queries, reducing response times by up to 40%
+
+Integrated third-party services including payment gateways and CRM platforms
+
+Implemented JWT-based authentication and role-based access control
+
+Wrote comprehensive unit and integration tests using JUnit 5 and Mockito
+
+Deployed services using Docker and Kubernetes
+
+Participated in architectural planning and code reviews
+
+Mentored junior developers and promoted best engineering practices
+
+Java Software Engineer
+
+TechCore Systems | Carmel, IN
+June 2018 – February 2021
+
+Developed backend services using Java 11, Spring MVC, and Hibernate
+
+Created REST APIs supporting over 50,000 daily users
+
+Designed relational database schemas using PostgreSQL and MySQL
+
+Implemented caching strategies using Redis
+
+Collaborated closely with frontend developers and product owners
+
+Improved application stability by introducing structured logging and monitoring
+
+Worked within Agile sprints using Jira and Confluence
+
+Assisted with CI/CD pipelines using GitHub Actions and Jenkins
+
+Junior Java Developer
+
+BlueRiver Technologies | Kokomo, IN
+July 2016 – May 2018
+
+Assisted in development of internal tools using Java and Spring
+
+Fixed bugs and implemented feature enhancements
+
+Wrote reusable utility libraries
+
+Supported production issues and performed root-cause analysis
+
+Gained strong foundations in object-oriented design and clean architecture
+
+Technical Skills
+Languages
+
+Java (8–21)
+
+SQL
+
+Bash
+
+JavaScript (working knowledge)
+
+Frameworks & Libraries
+
+Spring Boot
+
+Spring MVC
+
+Spring Security
+
+Hibernate / JPA
+
+Lombok
+
+MapStruct
+
+Architecture
+
+Microservices
+
+RESTful APIs
+
+Event-driven systems
+
+Domain-Driven Design
+
+Monolithic to microservice migrations
+
+Databases
+
+PostgreSQL
+
+MySQL
+
+MongoDB
+
+Redis
+
+DevOps & Cloud
+
+Docker
+
+Kubernetes
+
+AWS (EC2, S3, RDS, CloudWatch)
+
+Jenkins
+
+GitHub Actions
+
+Testing
+
+JUnit 5
+
+Mockito
+
+Integration & contract testing
+
+Tools
+
+Git
+
+Maven
+
+Gradle
+
+IntelliJ IDEA
+
+Postman
+
+Jira
+
+Education
+Bachelor of Science in Computer Science
+
+Indiana University – Purdue University Indianapolis
+Graduated: May 2016
+
+Certifications
+
+Oracle Certified Professional: Java SE Developer
+
+AWS Certified Developer – Associate
+
+Spring Professional Certification
+
+Key Achievements
+
+Reduced API latency by 40% through query optimisation and caching
+
+Led backend architecture for a platform supporting 100k+ users
+
+Migrated legacy Java 8 systems to Java 17 with zero downtime
+
+Recognised internally for consistently high-quality, maintainable code
+
+Professional Affiliations
+
+Association for Computing Machinery (ACM)
+
+Java User Group – Indiana
+
+References
+
+Available upon request
